@@ -29,8 +29,8 @@ const gameObject=function(){
     
    
     }
- gameObject();
- console.log(gameObject());
+//  gameObject();
+//  console.log(gameObject());
 
   
       
